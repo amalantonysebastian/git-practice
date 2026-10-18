@@ -1,2 +1,2 @@
-first line, edited on main
+first line, edited on main and branch-b
 Line two
